@@ -12,13 +12,13 @@ $ npm install
 
 #### Slack token
 
-Add slack token to system env.
+Add slack token to system environment variables.
 
 See [botkit getting started](https://github.com/howdyai/botkit#getting-started).
 
 #### Slack channel
 
-Add channel 'info' for job notifications.
+Add channel `info` for job notifications.
 
 ## Usage
 
