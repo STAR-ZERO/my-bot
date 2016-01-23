@@ -1,0 +1,16 @@
+{
+  "name": "my-bot",
+  "version": "1.0.0",
+  "description": "my slack bot",
+  "scripts": {
+    "start": "forever start index.js",
+    "stop": "forever stop index.js"
+  },
+  "author": "Kenji Abe",
+  "license": "MIT",
+  "dependencies": {
+    "botkit": "0.0.5",
+    "moment": "^2.11.1",
+    "node-schedule": "^0.6.0"
+  }
+}
