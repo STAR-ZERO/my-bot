@@ -46,7 +46,7 @@ $ npm stop
 
 ## Job
 
-* notify weather forecasts to 8:00
+* notify weather forecasts to 7:00
 
 ## Planned features
 
