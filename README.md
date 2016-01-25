@@ -47,7 +47,4 @@ $ npm stop
 ## Job
 
 * notify weather forecasts to 7:00
-
-## Planned features
-
-* notify trash collection schedule.
+* notify trash collection schedule to 0:00
