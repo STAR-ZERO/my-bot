@@ -65,7 +65,7 @@ $ npm stop
 Show Tumblr dashboard. only photo type, limit 5.
 
 ```
-@bot tumblr
+@bot: tumblr
 ```
 
 ![tumblr](image/tumblr.gif)
