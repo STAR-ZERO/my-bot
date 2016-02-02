@@ -60,6 +60,16 @@ $ npm stop
 
 ![weather](image/weather.png)
 
+### Tumblr dashboard
+
+Show Tumblr dashboard. only photo type, limit 5.
+
+```
+@bot tumblr
+```
+
+![tumblr](image/tumblr.gif)
+
 ## Job
 
 * notify weather forecasts to 7:00
