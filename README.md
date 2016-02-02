@@ -16,9 +16,26 @@ Add slack token to system environment variables.
 
 See [botkit getting started](https://github.com/howdyai/botkit#getting-started).
 
+```
+export bot_token=xxxxxxxx
+```
+
 #### Slack channel
 
 Add channel `info` for job notifications.
+
+#### Tumblr token
+
+Add Tumblr token to system environment variables.
+
+Tumblr token get to [here](https://www.tumblr.com/oauth/apps) and click `Explore API`. Register app if yet not exist.
+
+```
+export tumblr_consumer_key=xxxxxxxx
+export tumblr_consumer_secret=xxxxxxxx
+export tumblr_token=xxxxxxxx
+export tumblr_token_secret=xxxxxxxx
+```
 
 ## Usage
 
