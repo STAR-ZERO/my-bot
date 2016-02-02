@@ -55,7 +55,7 @@ $ npm stop
 ### Weather forecasts
 
 ```
-@bot weather [today|tommorow]
+@bot: weather [today|tommorow]
 ```
 
 ![weather](image/weather.png)
