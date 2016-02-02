@@ -36,6 +36,14 @@ $ npm stop
 
 ## Bot
 
+### ping/pong
+
+```
+@bot: ping
+```
+
+![ping-pong](image/ping-pong.png)
+
 ### Weather forecasts
 
 ```
