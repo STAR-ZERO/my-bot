@@ -44,6 +44,14 @@ $ npm stop
 
 ![ping-pong](image/ping-pong.png)
 
+### Update bot
+
+```
+@bot: update bot
+```
+
+![update](image/update.png)
+
 ### Weather forecasts
 
 ```
