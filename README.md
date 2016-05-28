@@ -90,4 +90,3 @@ Show Tumblr dashboard. only photo type, limit 5.
 ## Job
 
 * notify weather forecasts to 7:00
-* notify trash collection schedule to 0:00
